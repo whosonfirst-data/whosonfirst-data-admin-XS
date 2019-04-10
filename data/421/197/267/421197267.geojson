@@ -1,0 +1,85 @@
+{
+  "id": 421197267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35824,8.99907,45.35824,8.99907",
+    "geom:latitude":8.99907,
+    "geom:longitude":45.35824,
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:slv_x_preferred":[
+        "Loga\u0161\u010dica"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Eg"
+    ],
+    "qs:gn_country":"SO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":62854,
+    "qs:gn_pop":4325,
+    "qs:name":"Ceek",
+    "qs:name_adm0":"Somalia",
+    "qs:name_adm1":"Togdheer",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":122072,
+    "qs:woe_adm0":23424949,
+    "qs:woe_id":1425993,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421194355,
+        1108757813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62854,
+        "gp:id":1425993,
+        "qs:id":122072
+    },
+    "wof:country":"XS",
+    "wof:created":1459009908,
+    "wof:geomhash":"03bc0b33278bde422063db5efaba6f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757813,
+            "locality_id":421197267,
+            "region_id":421194355
+        }
+    ],
+    "wof:id":421197267,
+    "wof:lastmodified":1524094637,
+    "wof:name":"Ceek",
+    "wof:parent_id":1108757813,
+    "wof:placetype":"locality",
+    "wof:population":4325,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-xs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35824,
+    8.99907,
+    45.35824,
+    8.99907
+],
+  "geometry": {"coordinates":[45.35824,8.99907],"type":"Point"}
+}

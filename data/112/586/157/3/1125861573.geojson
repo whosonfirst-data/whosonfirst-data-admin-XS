@@ -1,0 +1,205 @@
+{
+  "id": 1125861573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.35971,8.47738,47.35971,8.47738",
+    "geom:latitude":8.47738,
+    "geom:longitude":47.35971,
+    "gn:gn_country":"SO",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":60100,
+    "gn:population":60100,
+    "iso:country":"SO",
+    "lbl:latitude":8.47738,
+    "lbl:longitude":47.35971,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0633 \u0639\u0627\u0646\u0648\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09cd\u09b8 \u0986\u09a8\u09cb\u09a1"
+    ],
+    "name:cat_x_preferred":[
+        "Las Anod"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u65af\u963f\u8afe\u5f97"
+    ],
+    "name:dan_x_preferred":[
+        "Las Anod"
+    ],
+    "name:dut_x_preferred":[
+        "Laascaanood"
+    ],
+    "name:eng_x_preferred":[
+        "Las Anod"
+    ],
+    "name:epo_x_preferred":[
+        "Laascaanood"
+    ],
+    "name:fin_x_preferred":[
+        "Las Anod"
+    ],
+    "name:fre_x_preferred":[
+        "Las Anod"
+    ],
+    "name:ger_x_preferred":[
+        "Las Anod"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1\u03c2 \u0386\u03bd\u03bf\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abe\u0ab8 \u0a8f\u0aa8\u0acb\u0aa1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0949\u0938 \u090f\u0928\u094b\u0921"
+    ],
+    "name:ind_x_preferred":[
+        "Las Anod"
+    ],
+    "name:ita_x_preferred":[
+        "Las Anod"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30a2\u30ce\u30c9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbe\u0cb8\u0ccd \u0c86\u0ca8\u0ccb\u0ca1\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc2a4 \uc544\ub178\ub4dc"
+    ],
+    "name:lav_x_preferred":[
+        "Lasanoda"
+    ],
+    "name:lit_x_preferred":[
+        "Lasanodas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093e\u0938 \u0905\u0928\u094b\u0921"
+    ],
+    "name:may_x_preferred":[
+        "Las Anod"
+    ],
+    "name:nno_x_preferred":[
+        "Las Anod"
+    ],
+    "name:nob_x_preferred":[
+        "Las Anod"
+    ],
+    "name:pol_x_preferred":[
+        "Laas Caanood"
+    ],
+    "name:por_x_preferred":[
+        "Las Anod"
+    ],
+    "name:rum_x_preferred":[
+        "Laascaanood"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441\u044a\u0430\u043d\u043e\u0434"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dc3\u0dca \u0d85\u0db1\u0ddc\u0da9\u0dca"
+    ],
+    "name:som_x_preferred":[
+        "Laascaanood"
+    ],
+    "name:spa_x_preferred":[
+        "Las Anod"
+    ],
+    "name:srn_x_preferred":[
+        "Laas Caanood"
+    ],
+    "name:swe_x_preferred":[
+        "Las Anod"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe\u0bb8\u0bcd \u0b86\u0ba3\u0bcb\u0b9f\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3e\u0c38\u0c4d \u0c05\u0c28\u0c4b\u0c21\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e32\u0e2a \u0e2d\u0e19\u0e14"
+    ],
+    "name:tur_x_preferred":[
+        "Las Anod"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441 \u0410\u043d\u043e\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Las Anod"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0627\u0646\u0648\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "Las Anod"
+    ],
+    "qs_pg:aaroncc":"SO",
+    "qs_pg:gn_country":"SO",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":400769,
+    "qs_pg:gn_pop":60100,
+    "qs_pg:name":"Laascaanood",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":124576,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805619,
+        1108757867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400769,
+        "qs_pg:id":124576,
+        "wd:id":"Q1017223"
+    },
+    "wof:country":"XS",
+    "wof:created":1497293849,
+    "wof:geomhash":"3e5749eda400ff17c90ebb00ca9ce33b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757867,
+            "locality_id":1125861573,
+            "region_id":1108805619
+        }
+    ],
+    "wof:id":1125861573,
+    "wof:lastmodified":1524094638,
+    "wof:name":"Laascaanood",
+    "wof:parent_id":1108757867,
+    "wof:placetype":"locality",
+    "wof:population":60100,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-xs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.35971,
+    8.47738,
+    47.35971,
+    8.47738
+],
+  "geometry": {"coordinates":[47.35971,8.47738],"type":"Point"}
+}
