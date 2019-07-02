@@ -19,13 +19,7 @@
     "name:deu_x_preferred":[
         "Oodweyne"
     ],
-    "name:dut_x_preferred":[
-        "Oodweyne"
-    ],
     "name:eng_x_preferred":[
-        "Oodweyne"
-    ],
-    "name:ger_x_preferred":[
         "Oodweyne"
     ],
     "name:ita_x_preferred":[
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":421171859,
-    "wof:lastmodified":1527726484,
+    "wof:lastmodified":1561833575,
     "wof:name":"Oodweyne",
     "wof:parent_id":1108757877,
     "wof:placetype":"locality",
