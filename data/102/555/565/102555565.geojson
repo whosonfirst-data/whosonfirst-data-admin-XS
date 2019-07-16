@@ -12,6 +12,9 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Berbera Airport"
+    ],
     "name:deu_x_preferred":[
         "Berbera Airport"
     ],
@@ -45,6 +48,12 @@
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Berbera"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Berbera"
+    ],
+    "name:som_x_preferred":[
+        "Gegada diyaaradaha Berbera"
     ],
     "name:spa_x_preferred":[
         "aeropuerto de Berbera"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":102555565,
-    "wof:lastmodified":1561833574,
+    "wof:lastmodified":1563271795,
     "wof:name":"Berbera Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

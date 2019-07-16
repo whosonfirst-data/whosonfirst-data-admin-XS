@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Togdheer"
     ],
+    "name:ceb_x_preferred":[
+        "Gobolka Togdheer"
+    ],
     "name:ces_x_preferred":[
         "Togdheer"
     ],
@@ -65,6 +68,9 @@
     "name:ita_x_preferred":[
         "Tug Dair"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30b2\u30a2\u30fc\u5dde"
+    ],
     "name:kat_x_preferred":[
         "\u10e2\u10dd\u10d2\u10d3\u10d4\u10e0\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
@@ -91,6 +97,9 @@
     ],
     "name:swe_x_preferred":[
         "Togdheer"
+    ],
+    "name:tur_x_preferred":[
+        "Togdeyr"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0433\u0434\u0435\u0440"
@@ -176,7 +185,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1553551419,
+    "wof:lastmodified":1563271803,
     "wof:name":"Togdheer",
     "wof:parent_id":85632733,
     "wof:placetype":"region",

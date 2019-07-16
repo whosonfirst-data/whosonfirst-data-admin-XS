@@ -16,10 +16,16 @@
     "name:cat_x_preferred":[
         "Odweyne"
     ],
+    "name:ceb_x_preferred":[
+        "Oodweyne"
+    ],
     "name:deu_x_preferred":[
         "Oodweyne"
     ],
     "name:eng_x_preferred":[
+        "Oodweyne"
+    ],
+    "name:fra_x_preferred":[
         "Oodweyne"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Oodweeyne"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b50\u5fb7\u97cb\u5167"
     ],
     "qs:gn_country":"SO",
     "qs:gn_fcode":"PPL",
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":421171859,
-    "wof:lastmodified":1561833575,
+    "wof:lastmodified":1563271809,
     "wof:name":"Oodweyne",
     "wof:parent_id":1108757877,
     "wof:placetype":"locality",

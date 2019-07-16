@@ -58,6 +58,9 @@
     "name:fra_x_preferred":[
         "Cheikh"
     ],
+    "name:fra_x_variant":[
+        "Sheikh"
+    ],
     "name:hbs_x_preferred":[
         "\u0160eik"
     ],
@@ -82,8 +85,14 @@
     "name:ita_x_preferred":[
         "Sceicco"
     ],
+    "name:ita_x_variant":[
+        "Sheikh"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e3\u30a4\u30d5"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b7\u30a7\u30fc\u30af"
     ],
     "name:kaz_x_preferred":[
         "\u0428\u0435\u0439\u0445"
@@ -124,6 +133,9 @@
     "name:pol_x_preferred":[
         "Szejk"
     ],
+    "name:pol_x_variant":[
+        "Sheekh"
+    ],
     "name:por_x_preferred":[
         "Xeque"
     ],
@@ -157,6 +169,9 @@
     "name:swe_x_preferred":[
         "Schejk"
     ],
+    "name:swe_x_variant":[
+        "Shiikh"
+    ],
     "name:tur_x_preferred":[
         "\u015eeyh"
     ],
@@ -174,6 +189,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8c22\u8d6b"
+    ],
+    "name:zho_x_variant":[
+        "\u8b1d\u8d6b"
     ],
     "qs:gn_country":"SO",
     "qs:gn_fcode":"PPL",
@@ -221,7 +239,7 @@
         }
     ],
     "wof:id":421176071,
-    "wof:lastmodified":1561833575,
+    "wof:lastmodified":1563271808,
     "wof:name":"Shiikh",
     "wof:parent_id":1108757935,
     "wof:placetype":"locality",

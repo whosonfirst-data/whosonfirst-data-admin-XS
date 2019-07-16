@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Berbera"
     ],
+    "name:ceb_x_preferred":[
+        "Berbera"
+    ],
     "name:ces_x_preferred":[
         "Berbera"
     ],
@@ -328,7 +331,7 @@
         }
     ],
     "wof:id":421181457,
-    "wof:lastmodified":1561833575,
+    "wof:lastmodified":1563271806,
     "wof:name":"Berbera",
     "wof:parent_id":1108757811,
     "wof:placetype":"locality",
