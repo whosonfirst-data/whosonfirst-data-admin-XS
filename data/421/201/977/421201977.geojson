@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0639\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u0639\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b0\u09be\u0993"
     ],
@@ -44,10 +47,16 @@
     "name:epo_x_preferred":[
         "Burco"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0639\u0648"
+    ],
     "name:fin_x_preferred":[
         "Burco"
     ],
     "name:fra_x_preferred":[
+        "Burao"
+    ],
+    "name:gle_x_preferred":[
         "Burao"
     ],
     "name:guj_x_preferred":[
@@ -124,6 +133,9 @@
     ],
     "name:srn_x_preferred":[
         "Burco"
+    ],
+    "name:swa_x_preferred":[
+        "Burao"
     ],
     "name:swe_x_preferred":[
         "Burao"
@@ -301,7 +313,7 @@
         }
     ],
     "wof:id":421201977,
-    "wof:lastmodified":1561833575,
+    "wof:lastmodified":1563271807,
     "wof:name":"Burao",
     "wof:parent_id":1108757813,
     "wof:placetype":"locality",
