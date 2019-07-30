@@ -25,8 +25,83 @@
     "name:ara_x_preferred":[
         "\u0633\u0646\u0627\u062c"
     ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0430\u0430\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Sanaag"
+    ],
+    "name:ceb_x_preferred":[
+        "Gobolka Sanaag"
+    ],
+    "name:ces_x_preferred":[
+        "Sanaag"
+    ],
+    "name:dan_x_preferred":[
+        "Sanaag"
+    ],
+    "name:deu_x_preferred":[
+        "Sanaag"
+    ],
     "name:eng_x_preferred":[
         "Sanaag"
+    ],
+    "name:epo_x_preferred":[
+        "Sanaag"
+    ],
+    "name:eus_x_preferred":[
+        "Sanaag"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u0627\u062c"
+    ],
+    "name:fin_x_preferred":[
+        "Sanaag"
+    ],
+    "name:fra_x_preferred":[
+        "Sanaag"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u0561\u0563"
+    ],
+    "name:ita_x_preferred":[
+        "Sanag"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30ca\u30fc\u30b0\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10d0\u10d2\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ub098\uadf8 \uc8fc"
+    ],
+    "name:nld_x_preferred":[
+        "Sanaag"
+    ],
+    "name:por_x_preferred":[
+        "Sanaag"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0430\u0433"
+    ],
+    "name:som_x_preferred":[
+        "Sanaag"
+    ],
+    "name:swe_x_preferred":[
+        "Sanaag"
+    ],
+    "name:tur_x_preferred":[
+        "Sanag"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0430\u0430\u0433"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0646\u0627\u062c"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u90a3\u683c\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +148,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1553551421,
+    "wof:lastmodified":1564103461,
     "wof:name":"Sanaag",
     "wof:parent_id":85632733,
     "wof:placetype":"region",

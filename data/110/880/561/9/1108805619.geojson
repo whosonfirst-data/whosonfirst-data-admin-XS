@@ -28,14 +28,26 @@
     "name:cat_x_preferred":[
         "Sool"
     ],
+    "name:ceb_x_preferred":[
+        "Sool"
+    ],
     "name:deu_x_preferred":[
         "Sool GL"
+    ],
+    "name:deu_x_variant":[
+        "Sool"
     ],
     "name:eng_x_preferred":[
         "Sool"
     ],
     "name:epo_x_preferred":[
         "Sool GL"
+    ],
+    "name:epo_x_variant":[
+        "Sool"
+    ],
+    "name:est_x_preferred":[
+        "Sool"
     ],
     "name:fra_x_preferred":[
         "Sool"
@@ -121,7 +133,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1561833574,
+    "wof:lastmodified":1564103460,
     "wof:name":"Sool",
     "wof:parent_id":85632733,
     "wof:placetype":"region",

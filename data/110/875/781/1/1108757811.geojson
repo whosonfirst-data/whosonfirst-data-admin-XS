@@ -27,6 +27,132 @@
     "mps:longitude":45.443759,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0628\u0631\u0629"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0440\u0431\u0435\u0440\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0440\u0431\u0435\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Berbera"
+    ],
+    "name:ceb_x_preferred":[
+        "Berbera"
+    ],
+    "name:ces_x_preferred":[
+        "Berbera"
+    ],
+    "name:dan_x_preferred":[
+        "Berbera"
+    ],
+    "name:deu_x_preferred":[
+        "Berbera"
+    ],
+    "name:epo_x_preferred":[
+        "Berbera"
+    ],
+    "name:fin_x_preferred":[
+        "Berbera"
+    ],
+    "name:fra_x_preferred":[
+        "Berbera"
+    ],
+    "name:fry_x_preferred":[
+        "Berbera"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d1\u05e8\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Berbera"
+    ],
+    "name:hun_x_preferred":[
+        "Berbera"
+    ],
+    "name:ind_x_preferred":[
+        "Berbera"
+    ],
+    "name:ita_x_preferred":[
+        "Berbera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30d9\u30e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10e0\u10d1\u10d4\u10e0\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0440\u0431\u0435\u0440\u0430 \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub974\ubca0\ub77c"
+    ],
+    "name:lat_x_preferred":[
+        "Berbera"
+    ],
+    "name:lit_x_preferred":[
+        "Berbera"
+    ],
+    "name:nld_x_preferred":[
+        "Berbera"
+    ],
+    "name:pol_x_preferred":[
+        "Berbera"
+    ],
+    "name:por_x_preferred":[
+        "Berbera"
+    ],
+    "name:ron_x_preferred":[
+        "Berbera"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0431\u0435\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Berbera"
+    ],
+    "name:som_x_preferred":[
+        "Berbera"
+    ],
+    "name:spa_x_preferred":[
+        "Berbera"
+    ],
+    "name:srn_x_preferred":[
+        "Berbera"
+    ],
+    "name:srp_x_preferred":[
+        "Berbera"
+    ],
+    "name:swa_x_preferred":[
+        "Berbera"
+    ],
+    "name:swe_x_preferred":[
+        "Berbera"
+    ],
+    "name:tur_x_preferred":[
+        "Berbera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0431\u0435\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0628\u0631\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Berbera"
+    ],
+    "name:vie_x_preferred":[
+        "Berbera"
+    ],
+    "name:war_x_preferred":[
+        "Berbera"
+    ],
+    "name:zho_x_preferred":[
+        "\u67cf\u57f9\u62c9"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -50,7 +176,7 @@
         }
     ],
     "wof:id":1108757811,
-    "wof:lastmodified":1536615724,
+    "wof:lastmodified":1564103465,
     "wof:name":"Berbera",
     "wof:parent_id":421176583,
     "wof:placetype":"county",
