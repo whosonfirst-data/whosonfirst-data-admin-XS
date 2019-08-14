@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SO"
+    ],
     "lbl:latitude":8.810091,
     "lbl:longitude":47.714226,
     "mz:hierarchy_label":1,
@@ -133,7 +136,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1564103460,
+    "wof:lastmodified":1565739746,
     "wof:name":"Sool",
     "wof:parent_id":85632733,
     "wof:placetype":"region",

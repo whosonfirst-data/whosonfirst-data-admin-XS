@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TO"
+    ],
     "lbl:latitude":9.209484,
     "lbl:longitude":45.507329,
     "mz:hierarchy_label":1,
@@ -185,7 +188,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1563271803,
+    "wof:lastmodified":1565739748,
     "wof:name":"Togdheer",
     "wof:parent_id":85632733,
     "wof:placetype":"region",

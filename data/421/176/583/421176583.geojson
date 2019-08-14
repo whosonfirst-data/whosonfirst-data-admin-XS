@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WO"
+    ],
     "lbl:latitude":9.602345,
     "lbl:longitude":44.189092,
     "mz:hierarchy_label":1,
@@ -194,7 +197,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1563271808,
+    "wof:lastmodified":1565739748,
     "wof:name":"Woqooyi Galbeed",
     "wof:parent_id":85632733,
     "wof:placetype":"region",

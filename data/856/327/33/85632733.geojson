@@ -11,6 +11,9 @@
     "geom:longitude":46.275584,
     "gp:id":0,
     "iso:country":"XS",
+    "label:eng_x_preferred_shortcode":[
+        "XS"
+    ],
     "lbl:latitude":9.439981,
     "lbl:longitude":46.750416,
     "mps:latitude":9.439981,
@@ -536,7 +539,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563271797,
+    "wof:lastmodified":1565739746,
     "wof:name":"Somaliland",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
