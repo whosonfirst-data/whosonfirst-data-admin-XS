@@ -10,8 +10,12 @@
     "geom:latitude":9.93099,
     "geom:longitude":45.19286,
     "iso:country":"SO",
+    "lbl:bbox":"45.17286,9.91099,45.21286,9.95099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Sjeik"
@@ -178,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u0439\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Skeekh"
     ],
     "name:urd_x_preferred":[
@@ -223,7 +227,7 @@
     "wof:concordances":{
         "gn:id":51812,
         "gp:id":1429053,
-        "qs:id":1041002,
+        "qs_pg:id":1041002,
         "wd:id":"Q256295"
     },
     "wof:country":"XS",
@@ -239,7 +243,7 @@
         }
     ],
     "wof:id":421176071,
-    "wof:lastmodified":1563271808,
+    "wof:lastmodified":1566653126,
     "wof:name":"Shiikh",
     "wof:parent_id":1108757935,
     "wof:placetype":"locality",

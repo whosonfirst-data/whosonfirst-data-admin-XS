@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":9.209484,
     "lbl:longitude":45.507329,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
@@ -107,7 +108,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0433\u0434\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Burao"
     ],
     "name:urd_x_preferred":[
@@ -138,9 +139,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-01-01",
+    "src:population_date":"2014-01-01",
     "statoids:area_km":"41,000",
     "statoids:area_mi":"16,000",
     "statoids:as_of_date":"2014-01-01",
@@ -165,7 +166,7 @@
         "gp:id":2347020,
         "hasc:id":"SO.TO",
         "iso:id":"SO-TO",
-        "qs:id":1047417,
+        "qs_pg:id":1047417,
         "wd:id":"Q865590",
         "wk:page":"Togdheer"
     },
@@ -188,11 +189,10 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1565739748,
+    "wof:lastmodified":1566653124,
     "wof:name":"Togdheer",
     "wof:parent_id":85632733,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":721363,
     "wof:population_rank":11,

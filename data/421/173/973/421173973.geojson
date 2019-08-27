@@ -10,6 +10,9 @@
     "geom:latitude":10.61616,
     "geom:longitude":47.36795,
     "iso:country":"SO",
+    "lbl:bbox":"47.34795,10.59616,47.38795,10.63616",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -137,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0438\u0433\u0430\u0431\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cerigaabo"
     ],
     "name:urd_x_preferred":[
@@ -277,7 +280,7 @@
     "wof:concordances":{
         "gn:id":62691,
         "gp:id":1426075,
-        "qs:id":639883,
+        "qs_pg:id":639883,
         "wd:id":"Q1017183",
         "wk:page":"Erigavo"
     },
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":421173973,
-    "wof:lastmodified":1563271804,
+    "wof:lastmodified":1566653125,
     "wof:name":"Ceerigaabo",
     "wof:parent_id":1108757789,
     "wof:placetype":"locality",
