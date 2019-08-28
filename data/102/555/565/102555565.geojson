@@ -12,6 +12,7 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Berbera Airport"
     ],
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":102555565,
-    "wof:lastmodified":1563271795,
+    "wof:lastmodified":1566653118,
     "wof:name":"Berbera Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

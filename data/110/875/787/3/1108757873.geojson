@@ -12,6 +12,8 @@
     "iso:country":"SO",
     "lbl:latitude":10.222612,
     "lbl:longitude":43.165123,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Awdal",
     "meso:aotm":"AOTM",
     "meso:dissme":"BoramaAwdal",
@@ -27,6 +29,7 @@
     "mps:longitude":43.165123,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0645\u0629"
     ],
@@ -100,7 +103,7 @@
         "\u535a\u62c9\u9a6c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632733,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1108757873,
-    "wof:lastmodified":1564103467,
+    "wof:lastmodified":1566653124,
     "wof:name":"Borama",
     "wof:parent_id":1108805623,
     "wof:placetype":"county",
