@@ -413,6 +413,9 @@
     },
     "wof:country":"XS",
     "wof:created":1459009296,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a813006a4e4db4143015c80a847b2493",
     "wof:hierarchy":[
         {
@@ -424,7 +427,7 @@
         }
     ],
     "wof:id":421181455,
-    "wof:lastmodified":1566653125,
+    "wof:lastmodified":1582312428,
     "wof:name":"Hargeysa",
     "wof:parent_id":1108757849,
     "wof:placetype":"locality",

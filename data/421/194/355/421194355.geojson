@@ -172,6 +172,9 @@
     },
     "wof:country":"XS",
     "wof:created":1459009803,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"33c67be6b99faa405fa38468b2ccacf3",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566653124,
+    "wof:lastmodified":1582312428,
     "wof:name":"Togdheer",
     "wof:parent_id":85632733,
     "wof:placetype":"region",

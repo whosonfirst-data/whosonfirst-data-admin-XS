@@ -181,6 +181,9 @@
     },
     "wof:country":"XS",
     "wof:created":1459009112,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1c2e1fbad48bbf6fc12aa62fec9f3d09",
     "wof:hierarchy":[
         {
@@ -198,7 +201,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566653126,
+    "wof:lastmodified":1582312428,
     "wof:name":"Woqooyi Galbeed",
     "wof:parent_id":85632733,
     "wof:placetype":"region",

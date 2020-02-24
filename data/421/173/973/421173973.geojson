@@ -286,6 +286,9 @@
     },
     "wof:country":"XS",
     "wof:created":1459009012,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"eaf53d77492cd455e1fd734aee469785",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":421173973,
-    "wof:lastmodified":1566653125,
+    "wof:lastmodified":1582312428,
     "wof:name":"Ceerigaabo",
     "wof:parent_id":1108757789,
     "wof:placetype":"locality",
