@@ -135,7 +135,15 @@
         }
     ],
     "wof:id":1141906217,
-    "wof:lastmodified":1566653127,
+    "wof:lang_x_official":[
+        "som",
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "som",
+        "ara"
+    ],
+    "wof:lastmodified":1603747872,
     "wof:name":"Ceerigaabo",
     "wof:parent_id":1108757789,
     "wof:placetype":"locality",

@@ -53,7 +53,15 @@
         }
     ],
     "wof:id":1108757917,
-    "wof:lastmodified":1566653121,
+    "wof:lang_x_official":[
+        "som",
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "som",
+        "ara"
+    ],
+    "wof:lastmodified":1603747870,
     "wof:name":"Gebiley",
     "wof:parent_id":421176583,
     "wof:placetype":"county",

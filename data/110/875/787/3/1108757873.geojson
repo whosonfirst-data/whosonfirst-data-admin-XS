@@ -125,7 +125,15 @@
         }
     ],
     "wof:id":1108757873,
-    "wof:lastmodified":1566653124,
+    "wof:lang_x_official":[
+        "som",
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "som",
+        "ara"
+    ],
+    "wof:lastmodified":1603747871,
     "wof:name":"Borama",
     "wof:parent_id":1108805623,
     "wof:placetype":"county",

@@ -102,7 +102,15 @@
         }
     ],
     "wof:id":102555565,
-    "wof:lastmodified":1566653118,
+    "wof:lang_x_official":[
+        "som",
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "som",
+        "ara"
+    ],
+    "wof:lastmodified":1603747869,
     "wof:name":"Berbera Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -53,7 +53,15 @@
         }
     ],
     "wof:id":1108757877,
-    "wof:lastmodified":1566653124,
+    "wof:lang_x_official":[
+        "som",
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "som",
+        "ara"
+    ],
+    "wof:lastmodified":1603747871,
     "wof:name":"Owdweyne",
     "wof:parent_id":421194355,
     "wof:placetype":"county",

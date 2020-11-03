@@ -316,7 +316,15 @@
         }
     ],
     "wof:id":421201977,
-    "wof:lastmodified":1566653125,
+    "wof:lang_x_official":[
+        "som",
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "som",
+        "ara"
+    ],
+    "wof:lastmodified":1603747872,
     "wof:name":"Burao",
     "wof:parent_id":1108757813,
     "wof:placetype":"locality",
