@@ -623,7 +623,9 @@
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "whosonfirst"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "wd:wordcount":7336,
@@ -642,6 +644,9 @@
     },
     "wof:country":"XS",
     "wof:country_alpha3":"",
+    "wof:geom_alt":[
+        "whosonfirst-interior"
+    ],
     "wof:geomhash":"233cd847b2668cb3e0444d7850270356",
     "wof:hierarchy":[
         {
@@ -653,7 +658,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1617827341,
+    "wof:lastmodified":1618362109,
     "wof:name":"Somaliland",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
