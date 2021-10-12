@@ -1,0 +1,18 @@
+{
+  "id": 85632733,
+  "type": "Feature",
+  "properties": {
+    "src:alt_label":"whosonfirst-interior",
+    "src:geom":"whosonfirst",
+    "wof:geomhash":"5fd940c23d2268b21a217e89bc94329e",
+    "wof:id":85632733,
+    "wof:repo":"whosonfirst-data-admin-XS"
+},
+  "bbox": [
+    47.853611,
+    8.001278,
+    48.001056,
+    8.001472
+],
+  "geometry": {"coordinates":[[[48.001056,8.001306],[47.93625,8.001278],[47.853611,8.001472],[48.001056,8.001306]]],"type":"Polygon"}
+}
