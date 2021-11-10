@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"43.1800410551,9.94041261692,43.1800410551,9.94041261692",
+    "geom:bbox":"43.180041,9.940413,43.180041,9.940413",
     "geom:latitude":9.940413,
     "geom:longitude":43.180041,
     "iso:country":"SO",
@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0627\u0645\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05de\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Boorama"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Somaliland",
     "ne:ADM0_A3":"SOL",
@@ -124,7 +133,7 @@
     "wof:concordances":{},
     "wof:country":"XS",
     "wof:created":1499130890,
-    "wof:geomhash":"cf5744f707458f8913dbcee6cf14e210",
+    "wof:geomhash":"f9d0c80362861fbf09d59a40cb30a171",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":1141908383,
-    "wof:lastmodified":1566653127,
+    "wof:lastmodified":1636494440,
     "wof:name":"Boorama",
     "wof:parent_id":1108757873,
     "wof:placetype":"locality",
@@ -145,10 +154,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.1800410550731,
-    9.94041261691825,
-    43.1800410550731,
-    9.94041261691825
+    43.180041,
+    9.940413,
+    43.180041,
+    9.940413
 ],
-  "geometry": {"coordinates":[43.1800410550731,9.94041261691825],"type":"Point"}
+  "geometry": {"coordinates":[43.180041,9.940413],"type":"Point"}
 }

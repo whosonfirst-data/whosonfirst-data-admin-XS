@@ -33,6 +33,9 @@
     "name:fra_x_preferred":[
         "Burco"
     ],
+    "name:hun_x_preferred":[
+        "Burco"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1108757813,
-    "wof:lastmodified":1628266634,
+    "wof:lastmodified":1636494439,
     "wof:name":"Burco",
     "wof:parent_id":421194355,
     "wof:placetype":"county",

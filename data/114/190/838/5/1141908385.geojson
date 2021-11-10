@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"47.0975280343,10.9800907582,47.0975280343,10.9800907582",
+    "geom:bbox":"47.097528,10.980091,47.097528,10.980091",
     "geom:latitude":10.980091,
     "geom:longitude":47.097528,
     "iso:country":"SO",
@@ -18,16 +18,49 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ae\u09c7\u09a7"
+    ],
     "name:deu_x_preferred":[
         "Maydh"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03b9\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Maydh"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06cc\u062f\u0647"
+    ],
     "name:fra_x_preferred":[
         "Maydh"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05d9\u05d3\u05da"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u092f\u094d\u0927"
+    ],
+    "name:hun_x_preferred":[
+        "Maydh"
+    ],
+    "name:ind_x_preferred":[
+        "Maydh"
+    ],
+    "name:ita_x_preferred":[
+        "Maydh"
+    ],
+    "name:kor_x_preferred":[
+        "\uba54\uc774\ub4dc"
+    ],
     "name:nld_x_preferred":[
+        "Maydh"
+    ],
+    "name:pol_x_preferred":[
+        "Maydh"
+    ],
+    "name:por_x_preferred":[
         "Maydh"
     ],
     "name:sco_x_preferred":[
@@ -36,7 +69,25 @@
     "name:som_x_preferred":[
         "Maydh"
     ],
+    "name:spa_x_preferred":[
+        "Maydh"
+    ],
     "name:srn_x_preferred":[
+        "Maydh"
+    ],
+    "name:swe_x_preferred":[
+        "Maydh"
+    ],
+    "name:tur_x_preferred":[
+        "Maydh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0439\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u062f\u06be"
+    ],
+    "name:vie_x_preferred":[
         "Maydh"
     ],
     "ne:ADM0CAP":0.0,
@@ -147,7 +198,7 @@
     },
     "wof:country":"XS",
     "wof:created":1499130890,
-    "wof:geomhash":"7a8e92273ae3bb7a5ffcb7910951f228",
+    "wof:geomhash":"ea018b8d1b31135e1571869338262909",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -158,7 +209,7 @@
         }
     ],
     "wof:id":1141908385,
-    "wof:lastmodified":1566653127,
+    "wof:lastmodified":1636494440,
     "wof:name":"Maydh",
     "wof:parent_id":1108757789,
     "wof:placetype":"locality",
@@ -168,10 +219,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.09752803425567,
-    10.9800907581984,
-    47.09752803425567,
-    10.9800907581984
+    47.097528,
+    10.980091,
+    47.097528,
+    10.980091
 ],
-  "geometry": {"coordinates":[47.09752803425567,10.9800907581984],"type":"Point"}
+  "geometry": {"coordinates":[47.097528,10.980091],"type":"Point"}
 }

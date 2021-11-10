@@ -415,6 +415,9 @@
         "Soomaliya"
     ],
     "name:urd_x_preferred":[
+        "\u0633\u0648\u0645\u0627\u0644\u06cc \u0644\u06cc\u0646\u0688"
+    ],
+    "name:urd_x_variant":[
         "\u0635\u0648\u0645\u0627\u0644\u06cc \u0644\u06cc\u0646\u0688"
     ],
     "name:vie_x_preferred":[
@@ -437,6 +440,9 @@
     ],
     "name:yue_x_preferred":[
         "\u7d22\u99ac\u91cc\u862d"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7d22\u9a6c\u91cc\u5170"
     ],
     "name:zho_hk_x_preferred":[
         "\u7d22\u99ac\u91cc\u862d"
@@ -658,7 +664,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1618362109,
+    "wof:lastmodified":1636494439,
     "wof:name":"Somaliland",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
