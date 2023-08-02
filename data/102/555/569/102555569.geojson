@@ -25,6 +25,9 @@
     "name:ces_x_preferred":[
         "Hargeysk\u00e9 mezin\u00e1rodn\u00ed leti\u0161t\u011b"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Hargeisa"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Hargeysa"
     ],
@@ -44,6 +47,9 @@
     "name:hun_x_preferred":[
         "Hargeisai nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
     ],
+    "name:hun_x_variant":[
+        "Hargeysai nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Hargeisa"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30eb\u30b2\u30a4\u30b5\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\ub974\uac8c\uc774\uc0ac \uacf5\ud56d"
     ],
     "name:lit_x_preferred":[
         "Hargeisos tarptautinis oro uostas"
@@ -123,7 +132,7 @@
         }
     ],
     "wof:id":102555569,
-    "wof:lastmodified":1566653118,
+    "wof:lastmodified":1690921862,
     "wof:name":"Hargeisa Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

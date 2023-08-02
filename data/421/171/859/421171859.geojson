@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Odweine"
+    ],
     "name:cat_x_preferred":[
         "Odweyne"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:eng_x_preferred":[
         "Oodweyne"
+    ],
+    "name:eng_x_variant":[
+        "Odweine"
     ],
     "name:fra_x_preferred":[
         "Oodweyne"
@@ -43,6 +49,9 @@
     ],
     "name:pol_x_preferred":[
         "Codweyne"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0434\u0443\u044d\u0439\u043d\u0435"
     ],
     "name:som_x_preferred":[
         "Codweyne"
@@ -61,6 +70,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6b50\u5fb7\u97cb\u5167"
+    ],
+    "name:zul_x_preferred":[
+        "Oodweyne"
     ],
     "qs:gn_country":"SO",
     "qs:gn_fcode":"PPL",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":421171859,
-    "wof:lastmodified":1566653126,
+    "wof:lastmodified":1690921867,
     "wof:name":"Oodweyne",
     "wof:parent_id":1108757877,
     "wof:placetype":"locality",

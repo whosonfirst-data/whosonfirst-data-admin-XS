@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0639\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u0639\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Burao"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0631\u0639\u0648"
     ],
@@ -27,6 +33,9 @@
         "\u09ac\u09c1\u09b0\u09be\u0993"
     ],
     "name:cat_x_preferred":[
+        "Burao"
+    ],
+    "name:ceb_x_preferred":[
         "Burao"
     ],
     "name:dan_x_preferred":[
@@ -152,6 +161,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e39\u0e40\u0e23\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e39\u0e23\u0e4c\u0e2d\u0e2d"
+    ],
     "name:tur_x_preferred":[
         "Burao"
     ],
@@ -172,6 +184,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u62c9\u5967"
+    ],
+    "name:zul_x_preferred":[
+        "Burao"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Somaliland",
@@ -316,7 +331,7 @@
         }
     ],
     "wof:id":421201977,
-    "wof:lastmodified":1566653125,
+    "wof:lastmodified":1690921866,
     "wof:name":"Burao",
     "wof:parent_id":1108757813,
     "wof:placetype":"locality",
