@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0628\u0631\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Berbera"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u0440\u0431\u0435\u0440\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0435\u0440\u0431\u0435\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09b0\u09ac\u09c7\u09b0\u09be"
@@ -52,6 +58,12 @@
     ],
     "name:epo_x_preferred":[
         "Berbera"
+    ],
+    "name:eus_x_preferred":[
+        "Berbera"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0628\u06cc\u0631\u0627"
     ],
     "name:fin_x_preferred":[
         "Berbera"
@@ -167,6 +179,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e23\u0e4c\u0e40\u0e1a\u0e23\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e1a\u0e23\u0e4c\u0e40\u0e1a\u0e23\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Berbera"
     ],
@@ -190,6 +205,9 @@
     ],
     "name:zho_x_preferred":[
         "\u67cf\u57f9\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Berbera"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Somaliland",
@@ -334,7 +352,7 @@
         }
     ],
     "wof:id":421181457,
-    "wof:lastmodified":1566653125,
+    "wof:lastmodified":1690921865,
     "wof:name":"Berbera",
     "wof:parent_id":1108757811,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0633\u0642\u064f\u0631\u064e\u0649"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u0627\u0633\u0642\u0648\u0631\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0633\u0642\u0631\u0649"
+    ],
     "name:cat_x_preferred":[
         "Las Khoray"
     ],
@@ -50,6 +56,9 @@
     "name:pol_x_preferred":[
         "Laasqoray"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441\u043a\u043e\u0440\u0430\u0439"
+    ],
     "name:som_x_preferred":[
         "Laasqoray"
     ],
@@ -64,6 +73,9 @@
     ],
     "name:zho_x_preferred":[
         "\u62c9\u65af\u6208\u840a"
+    ],
+    "name:zul_x_preferred":[
+        "Las Khorey"
     ],
     "qs:gn_country":"SO",
     "qs:gn_fcode":"PPLA2",
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":421197265,
-    "wof:lastmodified":1566653125,
+    "wof:lastmodified":1690921865,
     "wof:name":"Laasqoray",
     "wof:parent_id":1108757793,
     "wof:placetype":"locality",
