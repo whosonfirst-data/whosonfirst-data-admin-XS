@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.94718,
-    "geom:area_square_m":11585178667.427822,
+    "geom:area_square_m":11585179257.182724,
     "geom:bbox":"46.918891,8.001304,48.555375,8.842935",
     "geom:latitude":8.438577,
     "geom:longitude":47.636652,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Laas Caanood District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.401335,
     "lbl:longitude":47.636566,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Laas Caanood"
+    ],
     "name:fra_x_preferred":[
         "Las Anod"
     ],
@@ -46,7 +55,7 @@
     },
     "wof:country":"XS",
     "wof:created":1481308151,
-    "wof:geomhash":"512f66f37b76cccb143b57799f0f0128",
+    "wof:geomhash":"3c8667e0b98a5765d461c00d06e67a57",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1108757867,
-    "wof:lastmodified":1628266670,
+    "wof:lastmodified":1694498073,
     "wof:name":"Laas Caanood",
     "wof:parent_id":1108805619,
     "wof:placetype":"county",

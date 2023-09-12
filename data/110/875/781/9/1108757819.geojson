@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.294346,
-    "geom:area_square_m":15754167649.616251,
+    "geom:area_square_m":15754166171.929932,
     "geom:bbox":"46.009698,9.421232,47.380291,10.815223",
     "geom:latitude":10.148666,
     "geom:longitude":46.688555,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Ceel Afweyn District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.151355,
     "lbl:longitude":46.701598,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Ceel Afweyn"
+    ],
     "name:fra_x_preferred":[
         "Ceel Afweyn"
     ],
@@ -46,7 +55,7 @@
     },
     "wof:country":"XS",
     "wof:created":1481308125,
-    "wof:geomhash":"3e3e83c68381f4b614a507bf2947017e",
+    "wof:geomhash":"720283712171540e7df890da1f7367f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1108757819,
-    "wof:lastmodified":1628266637,
+    "wof:lastmodified":1694498071,
     "wof:name":"Ceel Afweyn",
     "wof:parent_id":1108805621,
     "wof:placetype":"county",

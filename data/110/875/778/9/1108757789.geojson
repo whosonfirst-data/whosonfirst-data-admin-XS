@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.146167,
-    "geom:area_square_m":26109940423.998631,
+    "geom:area_square_m":26109940264.84811,
     "geom:bbox":"46.78731,9.442752,48.610913,11.186277",
     "geom:latitude":10.29202,
     "geom:longitude":47.806692,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Ceerigaabo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.273534,
     "lbl:longitude":47.971434,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Ceerigaabo"
+    ],
     "name:fra_x_preferred":[
         "Ceerigaabo"
     ],
@@ -52,7 +61,7 @@
     },
     "wof:country":"XS",
     "wof:created":1481308110,
-    "wof:geomhash":"0662cc9a12b7ca939bf1b6bec9eabe37",
+    "wof:geomhash":"2c23f23bfe42df2c0e03191492afa536",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1108757789,
-    "wof:lastmodified":1636494439,
+    "wof:lastmodified":1694498095,
     "wof:name":"Ceerigaabo",
     "wof:parent_id":1108805621,
     "wof:placetype":"county",

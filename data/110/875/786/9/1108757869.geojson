@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.665653,
-    "geom:area_square_m":8123028010.663854,
+    "geom:area_square_m":8123027907.570817,
     "geom:bbox":"46.051042,8.781871,46.921587,10.043894",
     "geom:latitude":9.282916,
     "geom:longitude":46.489892,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Caynabo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.238005,
     "lbl:longitude":46.525105,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Caynabo"
+    ],
     "name:fra_x_preferred":[
         "Caynabo"
     ],
@@ -46,7 +55,7 @@
     },
     "wof:country":"XS",
     "wof:created":1481308152,
-    "wof:geomhash":"61dfa5ea23767587b24539e457874396",
+    "wof:geomhash":"5a4b615100c0c47100cc5f7446a66810",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1108757869,
-    "wof:lastmodified":1628266637,
+    "wof:lastmodified":1694498071,
     "wof:name":"Caynabo",
     "wof:parent_id":1108805619,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.840175,
-    "geom:area_square_m":10219554843.553078,
+    "geom:area_square_m":10219554843.553219,
     "geom:bbox":"44.1524258304,9.93912928713,46.034014428,10.867888451",
     "geom:latitude":10.358414,
     "geom:longitude":45.28717,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Berbera District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.400244,
     "lbl:longitude":45.443759,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
         "Berbera"
     ],
     "name:deu_x_preferred":[
+        "Berbera"
+    ],
+    "name:eng_x_preferred":[
         "Berbera"
     ],
     "name:epo_x_preferred":[
@@ -169,7 +178,7 @@
     },
     "wof:country":"XS",
     "wof:created":1481308122,
-    "wof:geomhash":"faa33bc9984313da9f94c6707e64dea5",
+    "wof:geomhash":"aa62e5348e89acf027cb14ff04f5d949",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -179,7 +188,7 @@
         }
     ],
     "wof:id":1108757811,
-    "wof:lastmodified":1566653123,
+    "wof:lastmodified":1694497844,
     "wof:name":"Berbera",
     "wof:parent_id":421176583,
     "wof:placetype":"county",

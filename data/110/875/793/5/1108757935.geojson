@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.246264,
-    "geom:area_square_m":2998902397.399161,
+    "geom:area_square_m":2998902397.399316,
     "geom:bbox":"44.9018782782,9.7817718075,45.9020926814,10.1717134889",
     "geom:latitude":9.992384,
     "geom:longitude":45.429531,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Sheikh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.994048,
     "lbl:longitude":45.42955,
     "lbl:max_zoom":10.0,
@@ -65,6 +71,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b5\u0390\u03c7\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Sheikh"
     ],
     "name:epo_x_preferred":[
         "\u015cejko"
@@ -208,7 +217,7 @@
     },
     "wof:country":"XS",
     "wof:created":1481308190,
-    "wof:geomhash":"1e5267e7a1052cadd11e60c960ede8a6",
+    "wof:geomhash":"ec927df880a63c4b3025447326c32723",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -218,7 +227,7 @@
         }
     ],
     "wof:id":1108757935,
-    "wof:lastmodified":1566653122,
+    "wof:lastmodified":1694497844,
     "wof:name":"Sheikh",
     "wof:parent_id":421194355,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.282289,
-    "geom:area_square_m":3434452739.907976,
+    "geom:area_square_m":3434452739.908068,
     "geom:bbox":"43.3312267665,9.80246352307,44.2394484533,10.60299014",
     "geom:latitude":10.285819,
     "geom:longitude":43.732722,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Baki District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.245389,
     "lbl:longitude":43.537951,
     "lbl:max_zoom":10.0,
@@ -37,6 +43,9 @@
         "Baki"
     ],
     "name:deu_x_preferred":[
+        "Baki"
+    ],
+    "name:eng_x_preferred":[
         "Baki"
     ],
     "name:fin_x_preferred":[
@@ -88,7 +97,7 @@
     },
     "wof:country":"XS",
     "wof:created":1481308140,
-    "wof:geomhash":"8daef5507fa2ebd8098efe1016ca9076",
+    "wof:geomhash":"7aa833afec0c0570f33f1d711faa9511",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1108757847,
-    "wof:lastmodified":1566653122,
+    "wof:lastmodified":1694497843,
     "wof:name":"Baki",
     "wof:parent_id":1108805623,
     "wof:placetype":"county",

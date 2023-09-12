@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.009624,
-    "geom:area_square_m":12273115174.713499,
+    "geom:area_square_m":12273114808.208971,
     "geom:bbox":"47.915132,9.540077,49.06085,11.328722",
     "geom:latitude":10.539211,
     "geom:longitude":48.694745,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Laasqoray District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.96602,
     "lbl:longitude":48.608034,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Laasqoray"
+    ],
     "name:fra_x_preferred":[
         "Las Khorey"
     ],
@@ -46,7 +55,7 @@
     },
     "wof:country":"XS",
     "wof:created":1481308112,
-    "wof:geomhash":"90faa233c78c767bcea1b1af4a8a8fe7",
+    "wof:geomhash":"497efebbf481ea4b01bfa76193455823",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1108757793,
-    "wof:lastmodified":1628266671,
+    "wof:lastmodified":1694498073,
     "wof:name":"Laasqoray",
     "wof:parent_id":1108805621,
     "wof:placetype":"county",
