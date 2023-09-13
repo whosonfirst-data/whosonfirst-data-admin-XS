@@ -694,7 +694,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2014",
+    "src:population_date":"2014",
     "wd:wordcount":7336,
     "wof:belongsto":[
         102191573
@@ -725,7 +725,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1694492036,
+    "wof:lastmodified":1694639491,
     "wof:name":"Somaliland",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
