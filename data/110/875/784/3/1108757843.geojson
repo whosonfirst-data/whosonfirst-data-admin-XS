@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.558855,
-    "geom:area_square_m":6835112923.748714,
+    "geom:area_square_m":6835112923.748697,
     "geom:bbox":"46.1913291522,8.001139,47.1004809601,8.82080317694",
     "geom:latitude":8.460155,
     "geom:longitude":46.661084,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Buuhoodle District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.457385,
     "lbl:longitude":46.661039,
     "lbl:max_zoom":10.0,
@@ -38,6 +44,9 @@
     ],
     "name:deu_x_preferred":[
         "Buhoodle"
+    ],
+    "name:eng_x_preferred":[
+        "Buuhoodle"
     ],
     "name:fra_x_preferred":[
         "Buuhoodle"
@@ -82,7 +91,7 @@
     },
     "wof:country":"XS",
     "wof:created":1481308138,
-    "wof:geomhash":"6235dbe6d3aa9c3991c19ce6ba4f532e",
+    "wof:geomhash":"69334f0b87c1c33ec01533cd133665cf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1108757843,
-    "wof:lastmodified":1566653122,
+    "wof:lastmodified":1694497843,
     "wof:name":"Buuhoodle",
     "wof:parent_id":421194355,
     "wof:placetype":"county",

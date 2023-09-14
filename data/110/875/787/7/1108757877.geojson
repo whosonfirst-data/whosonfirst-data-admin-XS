@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.685859,
-    "geom:area_square_m":8370131861.841021,
+    "geom:area_square_m":8370131040.871767,
     "geom:bbox":"44.687108,8.575314,45.291356,9.942882",
     "geom:latitude":9.25919,
     "geom:longitude":45.010903,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Owdweyne District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.248984,
     "lbl:longitude":44.986449,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Owdweyne"
+    ],
     "name:fra_x_preferred":[
         "Oodweyne"
     ],
@@ -46,7 +55,7 @@
     },
     "wof:country":"XS",
     "wof:created":1481308155,
-    "wof:geomhash":"f9143742fdaa3f3f7150173dec8394da",
+    "wof:geomhash":"5e4dd33157cbc22f741135a942fa2ce0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1108757877,
-    "wof:lastmodified":1628266697,
+    "wof:lastmodified":1694498074,
     "wof:name":"Owdweyne",
     "wof:parent_id":421194355,
     "wof:placetype":"county",

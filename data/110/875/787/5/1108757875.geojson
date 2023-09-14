@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.275444,
-    "geom:area_square_m":3347267029.142983,
+    "geom:area_square_m":3347267065.529504,
     "geom:bbox":"43.134057,10.381623,44.070865,10.938734",
     "geom:latitude":10.647556,
     "geom:longitude":43.578133,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Lughaye District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.652304,
     "lbl:longitude":43.57814,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Lughaye"
+    ],
     "name:fra_x_preferred":[
         "Lughaya"
     ],
@@ -46,7 +55,7 @@
     },
     "wof:country":"XS",
     "wof:created":1481308154,
-    "wof:geomhash":"6d0ba737c512d335f19b3d9d20823303",
+    "wof:geomhash":"2db71280b157f70f58b06188aead5629",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1108757875,
-    "wof:lastmodified":1628266678,
+    "wof:lastmodified":1694498073,
     "wof:name":"Lughaye",
     "wof:parent_id":1108805623,
     "wof:placetype":"county",
