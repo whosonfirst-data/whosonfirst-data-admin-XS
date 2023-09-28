@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.313357,
-    "geom:area_square_m":15963760559.352753,
+    "geom:area_square_m":15963760559.352913,
     "geom:bbox":"42.67008,9.6653858161,44.2394484533,11.477944374",
     "geom:latitude":10.575268,
     "geom:longitude":43.377599,
@@ -140,11 +140,13 @@
     "wof:concordances":{
         "fips:code":"SO21",
         "hasc:id":"SO.AW",
+        "iso:code":"SO-AW",
         "iso:id":"SO-AW"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"XS",
     "wof:created":1485559169,
-    "wof:geomhash":"067f2cad9b3e4ad9cddab817a1c1018b",
+    "wof:geomhash":"b1b4ed91f1a5b40af2fccb7c6091f62d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -161,7 +163,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566653120,
+    "wof:lastmodified":1695884328,
     "wof:name":"Awdal",
     "wof:parent_id":85632733,
     "wof:placetype":"region",

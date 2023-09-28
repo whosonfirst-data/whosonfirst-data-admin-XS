@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.81019,
-    "geom:area_square_m":34308814975.400311,
+    "geom:area_square_m":34308816089.381458,
     "geom:bbox":"44.687108,8.001139,47.100481,10.171713",
     "geom:latitude":9.109245,
     "geom:longitude":45.726861,
@@ -187,17 +187,19 @@
         "gn:id":51230,
         "gp:id":2347020,
         "hasc:id":"SO.TO",
+        "iso:code":"SO-TO",
         "iso:id":"SO-TO",
         "qs_pg:id":1047417,
         "wd:id":"Q865590",
         "wk:page":"Togdheer"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"XS",
     "wof:created":1459009803,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ab7787a96520afd04369ad2a346445c2",
+    "wof:geomhash":"d45e1d09f58edd5c8e213d0854574451",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -214,7 +216,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1690921863,
+    "wof:lastmodified":1695884331,
     "wof:name":"Togdheer",
     "wof:parent_id":85632733,
     "wof:placetype":"region",

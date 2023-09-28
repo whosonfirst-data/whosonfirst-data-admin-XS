@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.32164,
-    "geom:area_square_m":28281153111.790874,
+    "geom:area_square_m":28281153284.660679,
     "geom:bbox":"43.286203,8.77563,46.034014,10.867888",
     "geom:latitude":9.876132,
     "geom:longitude":44.552979,
@@ -199,17 +199,19 @@
         "gn:id":50360,
         "gp:id":2347021,
         "hasc:id":"SO.WO",
+        "iso:code":"SO-WO",
         "iso:id":"SO-WO",
         "qs_pg:id":1047416,
         "wd:id":"Q877021",
         "wk:page":"Woqooyi Galbeed"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"XS",
     "wof:created":1459009112,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9300462d5e33545a6bd7150d72a257fd",
+    "wof:geomhash":"95892be3dbad71531f374ff999ef9995",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -226,7 +228,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1690921866,
+    "wof:lastmodified":1695884330,
     "wof:name":"Woqooyi Galbeed",
     "wof:parent_id":85632733,
     "wof:placetype":"region",

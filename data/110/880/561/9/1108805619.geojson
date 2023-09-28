@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.069775,
-    "geom:area_square_m":37493720094.44474,
+    "geom:area_square_m":37493720094.443848,
     "geom:bbox":"46.0510424368,8.00130440513,49.0809768942,10.0438936308",
     "geom:latitude":8.964121,
     "geom:longitude":47.565065,
@@ -116,11 +116,13 @@
     "wof:concordances":{
         "fips:code":"SO22",
         "hasc:id":"SO.SO",
+        "iso:code":"SO-SO",
         "iso:id":"SO-SO"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"XS",
     "wof:created":1485559165,
-    "wof:geomhash":"cd03b788c706a57b7898a75bdcb69dec",
+    "wof:geomhash":"11a1dd90170d68af1c78a955a45b8a5a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -137,7 +139,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566653119,
+    "wof:lastmodified":1695884327,
     "wof:name":"Sool",
     "wof:parent_id":85632733,
     "wof:placetype":"region",
