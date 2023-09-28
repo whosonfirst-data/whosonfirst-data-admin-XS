@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"SO.TO.OD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"XS",
     "wof:created":1481308155,
     "wof:geomhash":"5e4dd33157cbc22f741135a942fa2ce0",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108757877,
-    "wof:lastmodified":1694498074,
+    "wof:lastmodified":1695886373,
     "wof:name":"Owdweyne",
     "wof:parent_id":421194355,
     "wof:placetype":"county",

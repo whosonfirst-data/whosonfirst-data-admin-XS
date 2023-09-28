@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"SO.AW.ZE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"XS",
     "wof:created":1481308177,
     "wof:geomhash":"b5c1ade78c15c938252b65f96e6e92f9",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108757915,
-    "wof:lastmodified":1694498077,
+    "wof:lastmodified":1695886433,
     "wof:name":"Zeylac",
     "wof:parent_id":1108805623,
     "wof:placetype":"county",

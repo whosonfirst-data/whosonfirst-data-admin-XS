@@ -215,6 +215,7 @@
     "wof:concordances":{
         "hasc:id":"SO.TO.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"XS",
     "wof:created":1481308190,
     "wof:geomhash":"ec927df880a63c4b3025447326c32723",
@@ -227,7 +228,7 @@
         }
     ],
     "wof:id":1108757935,
-    "wof:lastmodified":1694497844,
+    "wof:lastmodified":1695886442,
     "wof:name":"Sheikh",
     "wof:parent_id":421194355,
     "wof:placetype":"county",

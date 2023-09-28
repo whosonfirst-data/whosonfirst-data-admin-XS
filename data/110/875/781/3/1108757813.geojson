@@ -56,6 +56,7 @@
     "wof:concordances":{
         "hasc:id":"SO.TO.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"XS",
     "wof:created":1481308123,
     "wof:geomhash":"885f79db4fd2870bea19d6fefc7ecefe",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1108757813,
-    "wof:lastmodified":1694498096,
+    "wof:lastmodified":1695886543,
     "wof:name":"Burco",
     "wof:parent_id":421194355,
     "wof:placetype":"county",

@@ -122,6 +122,7 @@
     "wof:concordances":{
         "hasc:id":"SO.AW.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"XS",
     "wof:created":1481308153,
     "wof:geomhash":"641fc5acefee4a2056d58b4ded703bfb",
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108757873,
-    "wof:lastmodified":1694497844,
+    "wof:lastmodified":1695886443,
     "wof:name":"Borama",
     "wof:parent_id":1108805623,
     "wof:placetype":"county",

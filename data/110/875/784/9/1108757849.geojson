@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"SO.WO.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"XS",
     "wof:created":1481308141,
     "wof:geomhash":"2a49a82c1d91d90f1b0325346abbfdc2",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108757849,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1695886302,
     "wof:name":"Hargeysa",
     "wof:parent_id":421176583,
     "wof:placetype":"county",

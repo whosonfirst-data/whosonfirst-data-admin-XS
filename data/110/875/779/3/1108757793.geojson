@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"SO.SA.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"XS",
     "wof:created":1481308112,
     "wof:geomhash":"497efebbf481ea4b01bfa76193455823",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108757793,
-    "wof:lastmodified":1694498073,
+    "wof:lastmodified":1695886328,
     "wof:name":"Laasqoray",
     "wof:parent_id":1108805621,
     "wof:placetype":"county",
