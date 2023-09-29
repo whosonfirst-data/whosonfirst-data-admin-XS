@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.450137,
-    "geom:area_square_m":54137223248.327805,
+    "geom:area_square_m":54137223248.328102,
     "geom:bbox":"46.0096976484,9.42123184901,49.0608500982,11.328722",
     "geom:latitude":10.306406,
     "geom:longitude":47.682953,
@@ -131,11 +131,13 @@
     "wof:concordances":{
         "fips:code":"SO12",
         "hasc:id":"SO.SA",
+        "iso:code":"SO-SA",
         "iso:id":"SO-SA"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"XS",
     "wof:created":1485559168,
-    "wof:geomhash":"02f533fc31cc66b4222b09a04a7023ef",
+    "wof:geomhash":"9866dabafaf82a88226d006d689cbbd1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -152,7 +154,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566653120,
+    "wof:lastmodified":1695884327,
     "wof:name":"Sanaag",
     "wof:parent_id":85632733,
     "wof:placetype":"region",

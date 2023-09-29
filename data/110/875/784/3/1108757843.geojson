@@ -89,6 +89,7 @@
     "wof:concordances":{
         "hasc:id":"SO.TO.BH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"XS",
     "wof:created":1481308138,
     "wof:geomhash":"69334f0b87c1c33ec01533cd133665cf",
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108757843,
-    "wof:lastmodified":1694497843,
+    "wof:lastmodified":1695886442,
     "wof:name":"Buuhoodle",
     "wof:parent_id":421194355,
     "wof:placetype":"county",

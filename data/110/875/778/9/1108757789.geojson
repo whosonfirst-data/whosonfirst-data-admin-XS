@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SO.SA.CR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"XS",
     "wof:created":1481308110,
     "wof:geomhash":"2c23f23bfe42df2c0e03191492afa536",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108757789,
-    "wof:lastmodified":1694498095,
+    "wof:lastmodified":1695886542,
     "wof:name":"Ceerigaabo",
     "wof:parent_id":1108805621,
     "wof:placetype":"county",

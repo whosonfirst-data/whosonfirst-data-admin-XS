@@ -95,6 +95,7 @@
     "wof:concordances":{
         "hasc:id":"SO.AW.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"XS",
     "wof:created":1481308140,
     "wof:geomhash":"7aa833afec0c0570f33f1d711faa9511",
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108757847,
-    "wof:lastmodified":1694497843,
+    "wof:lastmodified":1695886442,
     "wof:name":"Baki",
     "wof:parent_id":1108805623,
     "wof:placetype":"county",

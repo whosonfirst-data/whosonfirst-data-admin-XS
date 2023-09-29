@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"SO.AW.LU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"XS",
     "wof:created":1481308154,
     "wof:geomhash":"2db71280b157f70f58b06188aead5629",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108757875,
-    "wof:lastmodified":1694498073,
+    "wof:lastmodified":1695886340,
     "wof:name":"Lughaye",
     "wof:parent_id":1108805623,
     "wof:placetype":"county",

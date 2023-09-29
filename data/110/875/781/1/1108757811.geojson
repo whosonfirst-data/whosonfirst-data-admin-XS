@@ -176,6 +176,7 @@
     "wof:concordances":{
         "hasc:id":"SO.WO.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"XS",
     "wof:created":1481308122,
     "wof:geomhash":"aa62e5348e89acf027cb14ff04f5d949",
@@ -188,7 +189,7 @@
         }
     ],
     "wof:id":1108757811,
-    "wof:lastmodified":1694497844,
+    "wof:lastmodified":1695886443,
     "wof:name":"Berbera",
     "wof:parent_id":421176583,
     "wof:placetype":"county",
